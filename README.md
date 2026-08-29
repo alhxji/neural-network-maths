@@ -238,3 +238,7 @@ We keep on running trhough the whole thing till we get our weights and biases to
 Check the main file, i'll add comments
 
 ## Will attach the repo with pytorch version and assembly version later. IF i do .
+
+# Links
+- [Pytorch Version](./pytorch.md)
+- [Assembly Version(not yet)](#)
